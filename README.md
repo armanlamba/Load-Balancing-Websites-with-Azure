@@ -4,7 +4,12 @@
 
 This project involves building a load-balanced architecture for a private website using several Azure services. The goal is to distribute website traffic between two webservers via an Azure Internal Load Balancer. The project demonstrates key concepts like virtual networks, virtual machine creation, and configuring Azure Bastion and Private DNS zones.
 
-### Architecture Components:
+## Video of demonstration of project
+
+Please click for the link :
+[Project Demonstration](https://drive.google.com/file/d/1n30nsUsmI__Iu8gfsjZKCnxD7we4sPCH/view?usp=sharing)
+
+## Architecture Components:
 - **Azure Bastion**
 - **Azure Virtual Machines** running IIS
 - **Azure Virtual Networks**
